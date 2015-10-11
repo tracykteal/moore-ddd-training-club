@@ -17,7 +17,7 @@ Center for Companion Animal Health building
 UC Davis campus  
 Location information: https://github.com/dib-lab/dib-training/blob/pub/Bennett-room.rst
 
-- 12:00 Informal lunch at Tracy & Titus' - 1215 W. 8th St., Davis  
+- 12:00 Informal lunch 
 If you've arrived and want to have lunch before the meeting come by
 
 - 1:15 - 1:30pm Arrival on campus, call 517-862-0107 (Tracy) or 517-505-9237 (Titus) if you need help finding the building. We have to let you into the building.
